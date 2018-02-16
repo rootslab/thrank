@@ -16,7 +16,7 @@
 
 [![NPM GRAPH](https://nodei.co/npm/thrank.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/thrank/)
 
-> __Skel__.
+> __Thrank__. Empty.
 
 ### Table of Contents
 
